@@ -1,0 +1,14 @@
+torch
+geoopt
+scikit-learn
+scipy
+numpy
+networkx
+matplotlib
+node2vec
+GraphRicciCurvature
+torch-cluster
+torch-geometric
+torch-scatter
+torch-sparse
+torch-spline-conv
